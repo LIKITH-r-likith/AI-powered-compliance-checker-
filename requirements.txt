@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx
+docx2txt
+PyMuPDF
+requests
+python-dotenv
+slack-sdk
+sendgrid
+google-api-python-client
+google-auth
+google-auth-oauthlib
+openai
+reportlab
